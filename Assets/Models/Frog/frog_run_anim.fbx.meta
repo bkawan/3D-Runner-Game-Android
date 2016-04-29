@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 3e6d510ff8881c4489de77cb976425e1
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: frog01_c_head01_jj
+    100002: frog01_c_head02_je
+    100004: frog01_c_neck01_jj
+    100006: frog01_c_spline01_jj
+    100008: frog01_c_spline02_jj
+    100010: frog01_c_spline03_jj
+    100012: frog01_l_eye01_je
+    100014: frog01_l_eye01_jj
+    100016: frog01_l_hand01_jj
+    100018: frog01_l_hand02_jj
+    100020: frog01_l_hand03_jj
+    100022: frog01_l_hand04_je
+    100024: frog01_l_index01_jj
+    100026: frog01_l_index02_jj
+    100028: frog01_l_index03_jj
+    100030: frog01_l_index04_je
+    100032: frog01_l_leg01_jj
+    100034: frog01_l_leg02_jj
+    100036: frog01_l_leg03_jj
+    100038: frog01_l_leg04_jj
+    100040: frog01_l_leg05_je
+    100042: frog01_l_middle01_jj
+    100044: frog01_l_middle02_jj
+    100046: frog01_l_middle03_jj
+    100048: frog01_l_middle04_je
+    100050: frog01_l_ring01_jj
+    100052: frog01_l_ring02_jj
+    100054: frog01_l_ring03_jj
+    100056: frog01_l_ring04_je
+    100058: frog01_l_thumb01_jj
+    100060: frog01_l_thumb02_jj
+    100062: frog01_l_thumb03_jj
+    100064: frog01_l_thumb04_je
+    100066: frog01_r_eye01_je
+    100068: frog01_r_eye01_jj
+    100070: frog01_r_hand01_jj
+    100072: frog01_r_hand02_jj
+    100074: frog01_r_hand03_jj
+    100076: frog01_r_hand04_je
+    100078: frog01_r_index01_jj
+    100080: frog01_r_index02_jj
+    100082: frog01_r_index03_jj
+    100084: frog01_r_index04_je
+    100086: frog01_r_leg01_jj
+    100088: frog01_r_leg02_jj
+    100090: frog01_r_leg03_jj
+    100092: frog01_r_leg04_jj
+    100094: frog01_r_leg05_je
+    100096: frog01_r_middle01_jj
+    100098: frog01_r_middle02_jj
+    100100: frog01_r_middle03_jj
+    100102: frog01_r_middle04_je
+    100104: frog01_r_ring01_jj
+    100106: frog01_r_ring02_jj
+    100108: frog01_r_ring03_jj
+    100110: frog01_r_ring04_je
+    100112: frog01_r_thumb01_jj
+    100114: frog01_r_thumb02_jj
+    100116: frog01_r_thumb03_jj
+    100118: frog01_r_thumb04_je
+    100120: //RootNode
+    100122: shotcam
+    400000: frog01_c_head01_jj
+    400002: frog01_c_head02_je
+    400004: frog01_c_neck01_jj
+    400006: frog01_c_spline01_jj
+    400008: frog01_c_spline02_jj
+    400010: frog01_c_spline03_jj
+    400012: frog01_l_eye01_je
+    400014: frog01_l_eye01_jj
+    400016: frog01_l_hand01_jj
+    400018: frog01_l_hand02_jj
+    400020: frog01_l_hand03_jj
+    400022: frog01_l_hand04_je
+    400024: frog01_l_index01_jj
+    400026: frog01_l_index02_jj
+    400028: frog01_l_index03_jj
+    400030: frog01_l_index04_je
+    400032: frog01_l_leg01_jj
+    400034: frog01_l_leg02_jj
+    400036: frog01_l_leg03_jj
+    400038: frog01_l_leg04_jj
+    400040: frog01_l_leg05_je
+    400042: frog01_l_middle01_jj
+    400044: frog01_l_middle02_jj
+    400046: frog01_l_middle03_jj
+    400048: frog01_l_middle04_je
+    400050: frog01_l_ring01_jj
+    400052: frog01_l_ring02_jj
+    400054: frog01_l_ring03_jj
+    400056: frog01_l_ring04_je
+    400058: frog01_l_thumb01_jj
+    400060: frog01_l_thumb02_jj
+    400062: frog01_l_thumb03_jj
+    400064: frog01_l_thumb04_je
+    400066: frog01_r_eye01_je
+    400068: frog01_r_eye01_jj
+    400070: frog01_r_hand01_jj
+    400072: frog01_r_hand02_jj
+    400074: frog01_r_hand03_jj
+    400076: frog01_r_hand04_je
+    400078: frog01_r_index01_jj
+    400080: frog01_r_index02_jj
+    400082: frog01_r_index03_jj
+    400084: frog01_r_index04_je
+    400086: frog01_r_leg01_jj
+    400088: frog01_r_leg02_jj
+    400090: frog01_r_leg03_jj
+    400092: frog01_r_leg04_jj
+    400094: frog01_r_leg05_je
+    400096: frog01_r_middle01_jj
+    400098: frog01_r_middle02_jj
+    400100: frog01_r_middle03_jj
+    400102: frog01_r_middle04_je
+    400104: frog01_r_ring01_jj
+    400106: frog01_r_ring02_jj
+    400108: frog01_r_ring03_jj
+    400110: frog01_r_ring04_je
+    400112: frog01_r_thumb01_jj
+    400114: frog01_r_thumb02_jj
+    400116: frog01_r_thumb03_jj
+    400118: frog01_r_thumb04_je
+    400120: //RootNode
+    400122: shotcam
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: frog01_c_spline01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj/frog01_c_head01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj/frog01_c_head01_jj/frog01_c_head02_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj/frog01_c_head01_jj/frog01_l_eye01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj/frog01_c_head01_jj/frog01_l_eye01_jj/frog01_l_eye01_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj/frog01_c_head01_jj/frog01_r_eye01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_c_neck01_jj/frog01_c_head01_jj/frog01_r_eye01_jj/frog01_r_eye01_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_hand04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_index01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_index01_jj/frog01_l_index02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_index01_jj/frog01_l_index02_jj/frog01_l_index03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_index01_jj/frog01_l_index02_jj/frog01_l_index03_jj/frog01_l_index04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_middle01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_middle01_jj/frog01_l_middle02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_middle01_jj/frog01_l_middle02_jj/frog01_l_middle03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_middle01_jj/frog01_l_middle02_jj/frog01_l_middle03_jj/frog01_l_middle04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_ring01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_ring01_jj/frog01_l_ring02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_ring01_jj/frog01_l_ring02_jj/frog01_l_ring03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_ring01_jj/frog01_l_ring02_jj/frog01_l_ring03_jj/frog01_l_ring04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_thumb01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_thumb01_jj/frog01_l_thumb02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_thumb01_jj/frog01_l_thumb02_jj/frog01_l_thumb03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_l_hand01_jj/frog01_l_hand02_jj/frog01_l_hand03_jj/frog01_l_thumb01_jj/frog01_l_thumb02_jj/frog01_l_thumb03_jj/frog01_l_thumb04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_hand04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_index01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_index01_jj/frog01_r_index02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_index01_jj/frog01_r_index02_jj/frog01_r_index03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_index01_jj/frog01_r_index02_jj/frog01_r_index03_jj/frog01_r_index04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_middle01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_middle01_jj/frog01_r_middle02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_middle01_jj/frog01_r_middle02_jj/frog01_r_middle03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_middle01_jj/frog01_r_middle02_jj/frog01_r_middle03_jj/frog01_r_middle04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_ring01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_ring01_jj/frog01_r_ring02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_ring01_jj/frog01_r_ring02_jj/frog01_r_ring03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_ring01_jj/frog01_r_ring02_jj/frog01_r_ring03_jj/frog01_r_ring04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_thumb01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_thumb01_jj/frog01_r_thumb02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_thumb01_jj/frog01_r_thumb02_jj/frog01_r_thumb03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_c_spline02_jj/frog01_c_spline03_jj/frog01_r_hand01_jj/frog01_r_hand02_jj/frog01_r_hand03_jj/frog01_r_thumb01_jj/frog01_r_thumb02_jj/frog01_r_thumb03_jj/frog01_r_thumb04_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_l_leg01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_l_leg01_jj/frog01_l_leg02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_l_leg01_jj/frog01_l_leg02_jj/frog01_l_leg03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_l_leg01_jj/frog01_l_leg02_jj/frog01_l_leg03_jj/frog01_l_leg04_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_l_leg01_jj/frog01_l_leg02_jj/frog01_l_leg03_jj/frog01_l_leg04_jj/frog01_l_leg05_je
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_r_leg01_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_r_leg01_jj/frog01_r_leg02_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_r_leg01_jj/frog01_r_leg02_jj/frog01_r_leg03_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_r_leg01_jj/frog01_r_leg02_jj/frog01_r_leg03_jj/frog01_r_leg04_jj
+        weight: 1
+      - path: frog01_c_spline01_jj/frog01_r_leg01_jj/frog01_r_leg02_jj/frog01_r_leg03_jj/frog01_r_leg04_jj/frog01_r_leg05_je
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: frog01_c_spline01_jj
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 5d21d4984485d1b44b0cfba2d181ab53,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

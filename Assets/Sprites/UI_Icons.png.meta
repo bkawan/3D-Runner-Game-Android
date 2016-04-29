@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 10e28127e86f257409abd2fe474756f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: i_title
+    21300002: i_logo
+    21300004: UI_Icons_12
+    21300006: UI_Icons_13
+    21300008: UI_Icons_14
+    21300010: UI_Icons_15
+    21300012: UI_Icons_16
+    21300014: UI_Icons_17
+    21300016: UI_Icons_18
+    21300018: UI_Icons_19
+    21300020: UI_Icons_20
+    21300022: UI_Icons_21
+    21300024: UI_Icons_22
+    21300026: i_background
+    21300028: i_coins
+    21300030: i_button
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: i_title
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 830
+        width: 682
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i_logo
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 659
+        width: 308
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i_background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 703
+        height: 641
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i_coins
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 540
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: i_button
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 384
+        width: 210
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
